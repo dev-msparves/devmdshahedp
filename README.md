@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eng. Shahed Parves</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh, Passionate Web Developer,Clean Code, Web Soluttion, Beautiful Design</h3>
+<h1 align="center">Hello 👋, I'm Eng. Shahed Parves</h1>
+<h3 align="center">Professional Web Designer Developer & Wordpress Expert Helping Businesses Build Stunning, Functional Websites. Passionate about Training Ideas into Digital Reality & Training Next-Gen. Web Developers </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-msparves&label=Profile%20views&color=0e75b6&style=flat" alt="dev-msparves" /> </p>
 
