@@ -1,4 +1,4 @@
-<image src="https://www.linkedin.com/in/eng-shahed-parves-534207164/edit/intro/?profileFormEntryPoint=PROFILE_SECTION&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bfk9xjJ9%2BSEOByAAo72O3bg%3D%3D">
+<image src="https://media.licdn.com/dms/image/v2/D4D03AQF_V1TjPAXe4g/profile-displayphoto-crop_800_800/B4DZhxPciGHsAI-/0/1754246533310?e=1756944000&v=beta&t=SdVrhmcTfhUkiOLbvtSQMl5ppzM9jGtaDrIfEshrOC8">
 <h1 align="center">Hello 👋, I'm Eng. Shahed Parves</h1>
 <h3 align="center">Professional Web Designer Developer & Wordpress Expert Helping Businesses Build Stunning, Functional Websites. Passionate about Training Ideas into Digital Reality & Training Next-Gen. Web Developers </h3>
 
